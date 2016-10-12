@@ -1,3 +1,3 @@
 # TheXXPicturesAndTextDetail
 
-![image](http://github.com/LoganFanXX/TheXXPicturesAndTextDetail/raw/master/DetailView.gif)
+![image](https://github.com/LoganFanXX/TheXXPicturesAndTextDetail/raw/master/DetailView.gif)
